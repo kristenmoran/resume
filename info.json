@@ -1,0 +1,22 @@
+{
+	"name": "Kristen Moran",
+	"website": "https://github.com/kristenmoran",
+	"linkedin": "https://www.linkedin.com/in/kristenlmoran/",
+	"github": "kristenmoran",
+	"email": "kristenmoranwrites@gmail.com",
+	"resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+	"proficientTechnologies": [
+		"Javascript",
+		"React",
+		"Vue",
+		"Node",
+		"Express",
+		"Mongodb",
+		"PostgreSQL",
+		"Python",
+		"Django",
+		"Wordpress",
+		"Drupal"
+	],
+	"otherSkills": ["D&D", "Improv", "Opera"]
+}
